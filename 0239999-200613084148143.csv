@@ -1,0 +1,15 @@
+taxonKey	scientificName	acceptedTaxonKey	acceptedScientificName	numberOfOccurrences	taxonRank	taxonomicStatus	kingdom	kingdomKey	phylum	phylumKey	class	classKey	order	orderKey	family	familyKey	genus	genusKey	species	speciesKey	iucnRedListCategory
+7924646	Aedes Meigen, 1818	7924646	Aedes Meigen, 1818	1	GENUS	ACCEPTED	Animalia	1	Arthropoda	54	Insecta	216	Diptera	811	Culicidae	3346	Aedes	7924646			
+1651842	Aedes guamensis Farner & Bohart, 1944	1651842	Aedes guamensis Farner & Bohart, 1944	5	SPECIES	ACCEPTED	Animalia	1	Arthropoda	54	Insecta	216	Diptera	811	Culicidae	3346	Aedes	7924646	Aedes guamensis	1651842	
+2439262	Rattus tanezumi (Temminck, 1845)	2439262	Rattus tanezumi (Temminck, 1845)	184	SPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Rattus	2439223	Rattus tanezumi	2439262	LC
+2457884	Boiga irregularis (Bechstein, 1802)	2457884	Boiga irregularis (Bechstein, 1802)	1025	SPECIES	ACCEPTED	Animalia	1	Chordata	44	Reptilia	358	Squamata	715	Colubridae	6172	Boiga	2457835	Boiga irregularis	2457884	LC
+4264886	Mus musculus domesticus Schwarz & Schwarz, 1943	4264886	Mus musculus domesticus Schwarz & Schwarz, 1943	1	SUBSPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Mus	9800657	Mus musculus	7429082	
+2439270	Rattus rattus (Linnaeus, 1758)	2439270	Rattus rattus (Linnaeus, 1758)	5	SPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Rattus	2439223	Rattus rattus	2439270	LC
+9800657	Mus Linnaeus, 1758	9800657	Mus Linnaeus, 1758	12	GENUS	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Mus	9800657			
+2439261	Rattus norvegicus (Berkenhout, 1769)	2439261	Rattus norvegicus (Berkenhout, 1769)	10	SPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Rattus	2439223	Rattus norvegicus	2439261	LC
+1652386	Aedes pandani Stone, 1939	1652386	Aedes pandani Stone, 1939	40	SPECIES	ACCEPTED	Animalia	1	Arthropoda	54	Insecta	216	Diptera	811	Culicidae	3346	Aedes	7924646	Aedes pandani	1652386	
+2439244	Rattus exulans (Peale, 1848)	2439244	Rattus exulans (Peale, 1848)	80	SPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Rattus	2439223	Rattus exulans	2439244	LC
+4264890	Mus musculus castaneus Waterhouse, 1843	4264890	Mus musculus castaneus Waterhouse, 1843	57	SUBSPECIES	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Mus	9800657	Mus musculus	7429082	
+2439223	Rattus Fischer, 1803	2439223	Rattus Fischer, 1803	2	GENUS	ACCEPTED	Animalia	1	Chordata	44	Mammalia	359	Rodentia	1459	Muridae	5510	Rattus	2439223			
+1651765	Aedes hensilli Farner, 1945	1651765	Aedes hensilli Farner, 1945	2	SPECIES	ACCEPTED	Animalia	1	Arthropoda	54	Insecta	216	Diptera	811	Culicidae	3346	Aedes	7924646	Aedes hensilli	1651765	
+1651430	Aedes albopictus Skuse, 1894	1651430	Aedes albopictus Skuse, 1894	2	SPECIES	ACCEPTED	Animalia	1	Arthropoda	54	Insecta	216	Diptera	811	Culicidae	3346	Aedes	7924646	Aedes albopictus	1651430	
