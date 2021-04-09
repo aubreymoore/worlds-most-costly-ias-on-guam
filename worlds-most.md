@@ -1,6 +1,8 @@
 # Status of the World's Most Costly Invasive Species on Guam
 **[Aubrey Moore](mailto://aubreymoore@triton.uog.edu), University of Guam**
 
+![top100](GuamTop100.pdf)
+
 On March 21, 2021, Diagne et al. published an article in *Nature* entitled [*Status of the World's Most Costly Invasive Species*](https://www.biodiversitydynamics.fr/wp-content/uploads/2021/03/InvaCostNature.pdf). In this article, they presented a figure showing costs associated with ten of the most costly taxa of invasive species, which includes seven insects, two mammals and one snake (You guessed it. It's the brown treesnake.) 
 
 Below, I have annotated their figure to indicate which taxa occur on Guam.
