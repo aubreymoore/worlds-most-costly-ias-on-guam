@@ -25,15 +25,15 @@ Below, I have annotated their figure to indicate which taxa occur on Guam.
 
 * [*Felis catus*](https://en.wikipedia.org/wiki/Cat), domestic cats, are abundant on Guam in domestic and feral populations. However,  GBIF contains no Guam records for cats ([GBIF search results](https://doi.org/10.15468/dl.7atvrc))
 
-* [*Coptotermes formosanus*](Coptotermes formosanus), the Formosan subterranean termite, has been reported from Guam. However, a survey by Su and Sch found only C. gestroi (syn. C.vastator) and suggested that previous identifications of Guam specimens as C. formosanus were erroneous. 
+* [*Coptotermes formosanus*](https://en.wikipedia.org/wiki/Formosan_subterranean_termite), the Formosan subterranean termite, has been reported from Guam. However, a survey by Su and Sch [5] found only *C. gestroi* (syn. *C.vastator*) and suggested that previous identifications of Guam specimens as *C. formosanus* were erroneous. 
 
-* [*Solenopsis invicta*](https://en.wikipedia.org/wiki/Red_imported_fire_ant), red imported fire ant, is not reported from Guam. geminata
+* [*Solenopsis invicta*](https://en.wikipedia.org/wiki/Red_imported_fire_ant), red imported fire ant, is not reported from Guam. However, the *S. geminata* the tropical fire ant is common. 
 
-* [*Boiga irregularis*](https://en.wikipedia.org/wiki/Brown_tree_snake), brown treesnake (BTS), is abundant on Guam.  Occurrence on Guam represents the only documented reproductive population outside the native range of this snake. BTS is unique in this figure as being the only taxon in which management costs exceed all other costs. Much of the BTS management costs are used used to to prevent accidental export BTS from Guam. 
+* [*Boiga irregularis*](https://en.wikipedia.org/wiki/Brown_tree_snake), brown treesnake (BTS), is abundant on Guam.  Occurrence on Guam represents the only documented reproductive population outside the native range of this snake. BTS is unique in this figure as being the only taxon in which management costs exceed all other costs. Much of the BTS management costs are used used to to prevent accidental export BTS from Guam, rather than on managing the pest on Guam. 
 
 * [*Anthonomus grandis*](https://en.wikipedia.org/wiki/Boll_weevil), cotton boll weevil, is not reported from Guam.
 
-* [*Lymantria dispar*](https://en.wikipedia.org/wiki/Lymantria_dispar), European gypsy moth is nNot reported from Guam.
+* [*Lymantria dispar*](https://en.wikipedia.org/wiki/Lymantria_dispar), European gypsy moth is not reported from Guam.
 
 * [*Apis mellifera scutellata*](https://en.wikipedia.org/wiki/African_bee), East African lowland honeybee, is a subspecies of the western honey bee which has been determined to constitute one part of the ancestry of the Africanized bees spreading through America. There is no record of *A. mellifera scutellata* on Guam and there is no evidence of Africanization of domestic or feral populations of *A. mellifera* on Guam.
 
@@ -49,7 +49,7 @@ Below, I have annotated their figure to indicate which taxa occur on Guam.
 
 [4] Wikipedia contributors. (2021, April 1). Aedes. In Wikipedia, The Free Encyclopedia. Retrieved 01:03, April 5, 2021, from https://en.wikipedia.org/w/index.php?title=Aedes&oldid=1015398992
 
-
+[5] Su
 
 [readonly link](https://www.nature.com/articles/s41586-021-03405-6.epdf?sharing_token=gzAIS34eQrFgpg6755NR9NRgN0jAjWel9jnR3ZoTv0N-hjc_skiWnPirhq64a5g9G8FoO2H0zrGElFjOf25pdvBarBVWKpyVc4jJeaw5SUrONw3ngCedft-uNLJQKdH_zr8n3z-cnlZHS9Q5JV34q9vMLLF7xtWbZPnfYRMSH3s%3D)
 
