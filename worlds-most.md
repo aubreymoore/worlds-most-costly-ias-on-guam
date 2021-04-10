@@ -1,8 +1,29 @@
-# Status of the World's Most Costly Invasive Species on Guam
-**[Aubrey Moore](mailto://aubreymoore@triton.uog.edu), University of Guam**
-  
-![plot](GuamTop100.png)
+# DRAFT: How Bad is Guam's Invasive Species Status from a Global Perspective?
+**
+[Aubrey Moore](mailto://aubreymoore@triton.uog.edu), University of Guam**
 
+Guam has become quite infamous as an island heavily impacted by invasive species mainly because of the brown treesnake.  But is this notariety justified? I have come across a couple of lists which may be useful in developing a global perspective for the invasive species status on Guam. 
+
+* [100 of the World's Worst Invasive Alien Species](http://issg.org/database/species/reference_files/100English.pdf) was published by the Invasive Specialist Group of the World Conservation Union (IUCN) in 2000.
+Species were selected for the list according to two criteria: their serious impact on biological diversity and/or  human activities, and their illustration of important issues surrounding biological invasion. 
+
+* [World's Most Costly Invasive Species](https://www.biodiversitydynamics.fr/wp-content/uploads/2021/03/InvaCostNature.pdf) was published by Diagne et al. in 2021. This list is ranked by the sum of damage and management costs for each taxon between 1970 and 2017.
+
+Here are the initial summary data: 
+
+* Guam has 33 out of 100 taxa in a list of the [100 of the World's Worst Invasive Alien Species](http://issg.org/database/species/reference_files/100English.pdf).
+
+* Guam has 5 out of 10 taxa in a list of the [World's Most Costly Invasive Species](https://www.biodiversitydynamics.fr/wp-content/uploads/2021/03/InvaCostNature.pdf).
+
+But how do these numbers compare to those for other islands? I am currently counting taxa in these lists which occur on other tropical islands for comparison. Come back here soon to see results. 
+
+## 100 of the World's Worst Invasive Alien Species
+
+![top100](guamtop100.png)
+
+<hr>
+
+## World's Most Costly Invasive Species
 
 On March 21, 2021, Diagne et al. published an article in *Nature* entitled [*Status of the World's Most Costly Invasive Species*](https://www.biodiversitydynamics.fr/wp-content/uploads/2021/03/InvaCostNature.pdf). In this article, they presented a figure showing costs associated with ten of the most costly taxa of invasive species, which includes seven insects, two mammals and one snake (You guessed it. It's the brown treesnake.) 
 
