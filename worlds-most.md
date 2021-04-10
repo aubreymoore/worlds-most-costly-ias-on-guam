@@ -42,7 +42,7 @@ Below, I have annotated their figure to indicate which taxa occur on Guam.
 
 * [*Felis catus*](https://en.wikipedia.org/wiki/Cat), domestic cats, are abundant on Guam in domestic and feral populations. However,  GBIF contains no Guam records for cats ([GBIF search results](https://doi.org/10.15468/dl.7atvrc))
 
-* [*Coptotermes formosanus*](https://en.wikipedia.org/wiki/Formosan_subterranean_termite), the Formosan subterranean termite, has been reported from Guam. However, a survey by Su and Sch [5] found only *C. gestroi* (syn. *C.vastator*) and suggested that previous identifications of Guam specimens as *C. formosanus* were erroneous. 
+* [*Coptotermes formosanus*](https://en.wikipedia.org/wiki/Formosan_subterranean_termite), the Formosan subterranean termite, has been reported from Guam. However, a 1993 survey [Su and Scheffrahn 1998](https://scholarspace.manoa.hawaii.edu/bitstream/10125/16298/1/PHES33_13-18.pdf) found only *C. gestroi* (syn. *C.vastator*), suggesting that previous identifications of Guam specimens as *C. formosanus* may be wrong. 
 
 * [*Solenopsis invicta*](https://en.wikipedia.org/wiki/Red_imported_fire_ant), red imported fire ant, is not reported from Guam. However, the *S. geminata* the tropical fire ant is common. 
 
@@ -55,18 +55,3 @@ Below, I have annotated their figure to indicate which taxa occur on Guam.
 * [*Apis mellifera scutellata*](https://en.wikipedia.org/wiki/African_bee), East African lowland honeybee, is a subspecies of the western honey bee which has been determined to constitute one part of the ancestry of the Africanized bees spreading through America. There is no record of *A. mellifera scutellata* on Guam and there is no evidence of Africanization of domestic or feral populations of *A. mellifera* on Guam.
 
 * [*Cochliomyia hominivorax*](https://en.wikipedia.org/wiki/Cochliomyia_hominivorax), New World screw-worm fly, is not reported from Guam.
-
-### References
-
-[1] GBIF.org (4 April 2021) GBIF Occurrence Download https://doi.org/10.15468/dl.7atvrc
-
-[2] Diagne, Christophe, Boris Leroy, Anne-Charlotte VaissiÃ¨re, Rodolphe E. Gozlan, David Roiz, Ivan JariÄ‡, Jean-Michel Salles, Corey J. A. Bradshaw, and Franck Courchamp. â€œHigh and Rising Economic Costs of Biological Invasions Worldwide.â€ Nature, March 31, 2021, 1â€“6. https://doi.org/10.1038/s41586-021-03405-6.
-
-[3] Wikipedia contributors. (2021, April 1). African bee. In Wikipedia, The Free Encyclopedia. Retrieved 00:39, April 5, 2021, from https://en.wikipedia.org/w/index.php?title=African_bee&oldid=1015512213
-
-[4] Wikipedia contributors. (2021, April 1). Aedes. In Wikipedia, The Free Encyclopedia. Retrieved 01:03, April 5, 2021, from https://en.wikipedia.org/w/index.php?title=Aedes&oldid=1015398992
-
-[5] Su
-
-[readonly link](https://www.nature.com/articles/s41586-021-03405-6.epdf?sharing_token=gzAIS34eQrFgpg6755NR9NRgN0jAjWel9jnR3ZoTv0N-hjc_skiWnPirhq64a5g9G8FoO2H0zrGElFjOf25pdvBarBVWKpyVc4jJeaw5SUrONw3ngCedft-uNLJQKdH_zr8n3z-cnlZHS9Q5JV34q9vMLLF7xtWbZPnfYRMSH3s%3D)
-
